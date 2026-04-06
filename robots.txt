@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Harimanth20.github.io/hkred-unknown-niche/sitemap.xml
